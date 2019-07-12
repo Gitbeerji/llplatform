@@ -1,29 +1,14 @@
-# llplatform
+# 基于Vue + Element搭建一个后台管理项目 
 
-## Project setup
-```
-npm install
-```
+****
+## 起步 + 配置 2019-07-12
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 安装vue-cli 3.0版本 npm install -g @vue/cli
+### vue ui 打开项目管理可视化界面
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 安装依赖 
++ axios 网络请求
++ mock.js 模拟数据
++ ccrypto-js 加密算法
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*****
